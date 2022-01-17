@@ -12,6 +12,6 @@ A landing page for a fictional webite Tindog. It allows to find other dogs nearb
 
 Deployed Website : https://shalshcode08.github.io/Tindog-Website/
 
-![tindog](./images/Capture.png)
+![tindog](./images/website-tindog.png)
 
 
